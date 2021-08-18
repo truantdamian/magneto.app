@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.error-input {
+  font-size: 0.8rem;
+  color: #f00;
+}

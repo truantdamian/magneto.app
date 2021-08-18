@@ -1,0 +1,15 @@
+.container {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.heart-icon {
+  width: 32px;
+  height: 32px;
+  color: #aaa;
+}
+
+.active {
+  color: #f00;
+}
